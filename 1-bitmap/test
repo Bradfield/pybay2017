@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+./solution.py input.bmp output.bmp \
+  && diff output.bmp expected.bmp \
+  && echo "Passed"
