@@ -4,9 +4,9 @@ Hi! 👋 Thanks for joining this pre-conference workshop for PyBay 2017.
 
 This will be a whirlwind tour through a number of important computer science topics, designed for Python hackers without a formal CS background. If you can hack out Python code without too much trouble, but don't always know how and why it works (or how you might make it run faster) then I'm sure you'll have learn a lot today and have a great time too!
 
-As you may know, a formal undergraduate education in computer science typically takes 4 years, whereas we will have around 6 hours 😳. Even at [Bradfield](https://bradfieldcs.com) where we run accelerated computer science courses for practicing software engineers, we still take a month on each topic. So, today should give you an overall map of the terrain of CS, and hopefully whet your appetite for learning much more!
+As you may know, a formal undergraduate education in computer science typically takes 4 years, whereas we will have around 6 hours 😳. Even at [Bradfield](https://bradfieldcs.com) (where we run accelerated computer science courses for practicing software engineers) we still take a month on each topic. So today we'll just aim to give you an overall map of the terrain, and hopefully inspire you to learn much more!
 
-I'd also like to point out that it's always hard to calibrate the difficulty of exercises to a large group, particularly when we don't know how much background you have coming in. For that reason, we've erred on the side of having too many exercises, with enough stretch goals that even the most experienced participants still have plenty to work through. That means that the person with the median experience level here might feel like they're falling behind! Please don't worry, my expectation is that we won't be able to cover all the content or complete all of the exercises. Hopefully everything is well enough described that you can finish things off at home if you'd like to do so.
+I'd also like to point out that it's always to calibrate the difficulty of exercises to a large group, particularly before knowing all your backgrounds. For that reason, we've erred on the side of having *too many exercises*, with enough stretch goals that even the most experienced folk still have more than enough to work through. This could make you feel like you're falling behind! Please don't worry, my expectation is that we won't be able to cover all the content or complete all of the exercises. Everything should be described well enough that you can finish things off at home.
 
 ## Optimistic structure for the day
 
@@ -33,4 +33,4 @@ If you'd like to keep working on the exercises after today, feel free to email q
 
 ## License
 
-All rights reserved. Exercises and other all other material here is property of the Bradfield School of Computer Science and may not be used in courseware or training material without express permission.
+All rights reserved. Exercises and other all other material here is property of the Bradfield School of Computer Science. Feel free to share this with other learners, but please don't incorporate any of it into a class or workshop without our permission.

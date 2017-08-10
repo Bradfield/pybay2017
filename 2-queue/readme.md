@@ -1,6 +1,6 @@
 # Exercise 2 - implement an efficient queue
 
-A queue is a very common data structure, with the behavior that the thing that's been waiting longest in the queue comes out soonest. If you don't think too carefully about how to achieve this, you might find yourself appending to the end of, and popping from the front of, a Python list. We will talk about why this isn't so efficient, and what some better alternatives are.
+A queue is a very common data structure, where the first item to enter the structure is the first one to come out. If we don't think too carefully about how to achieve this, we might be tempted to append to the end of, and shift (pop from the front of), a Python list. We will talk about why this isn't so efficient, and what some better alternatives are.
 
 
 ## Primary exercise

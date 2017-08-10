@@ -2,7 +2,8 @@
 
 Now that we're comfortable working with binary data, we can explore an interesting field of computer science that web developers touch every day without realizing it: computer networking.
 
-In this exercise, we've captured a packet that we sent to the server that hosts the pybay website. We'll be exploring that packet to get an understanding of some of the protocols involved.
+In this exercise, we've captured a packet that we sent to a server that hosts the pybay website. We'll be exploring that packet to get an understanding of the network protocols involved.
+
 
 ## Main exercise
 

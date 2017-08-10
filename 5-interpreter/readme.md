@@ -2,6 +2,7 @@
 
 This exercise is certainly impossible to complete in the time we have available, but it's a good excuse to start talking about compilers and interpreters, including the CPython implementation of the Python language. There are actually 9 exercises in total here, so it should be easy for you to finish some today and some at home.
 
+
 ## Instructions
 
 An asteroid has hit the earth! 🌏☄️ Oh no! All of the Python interpreters and .py files have been destroyed in the fire! 🔥 Somehow, the .pyc files remain unharmed. 🚒👨‍🚒 Your job is to write an interpreter to read and evaluate the surviving .pyc files, so that we can start rebuilding our tragically damaged civilization.
@@ -15,6 +16,7 @@ The version of Python used is 2.7.10, which is the default Python on most OS X v
 Another useful resource is the [`dis`](https://docs.python.org/2/library/dis.html), both for its functionality and its documentation.
 
 Hopefully this exercise will raise a bunch of questions and start some interesting conversations! Please don’t hesitate to ask me about them. 🙂
+
 
 ## More resources
 
